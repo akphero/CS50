@@ -16,6 +16,10 @@ The [CS50 repository][CS50-repository-url] will store all code related to CS50 C
 
 You can use an online code VSCode editor or download VSCode desktop app.
 
+# Progress
+
+* Week 0 - Scratch Game - https://scratch.mit.edu/projects/930797118/#
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [ansible-servermanagement-repository-url]: https://github.com/akphero/ansible
