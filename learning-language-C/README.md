@@ -32,6 +32,17 @@ Step1. Install gcc.
     sudo yum install gcc
     ``` 
 
+Step2. Install cs-50 library.
+
+    ```shell
+    #Install cs50 library
+    wget https://github.com/cs50/libcs50/archive/refs/tags/v11.0.2.zip
+    unzip v11.0.2.zip
+    cd v11.0.2
+    sudo make install
+    ``` 
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
